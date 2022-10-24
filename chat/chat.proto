@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package proto;
+package chat;
 
 message Message {
     string Body = 1;
